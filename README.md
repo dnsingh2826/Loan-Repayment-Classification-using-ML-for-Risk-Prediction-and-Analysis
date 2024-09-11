@@ -1,0 +1,2 @@
+# Loan-Repayment-Classification-using-ML-for-Risk-Prediction-and-Analysis
+This project develops a machine learning model to predict loan repayment likelihood for better risk management. Using a labeled dataset, it includes data preprocessing (outlier removal, format standardization, missing value imputation) and applies various classifiers to evaluate their effectiveness in predicting repayment probability.
